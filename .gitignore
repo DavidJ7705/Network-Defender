@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 .venv/
 .venv_mac/
+documentation/
 __pycache__/
 *.py[codz]
 *$py.class

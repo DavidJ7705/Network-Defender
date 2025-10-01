@@ -1,1 +1,0 @@
-# SCRUM-15: Researching Cartpole test write

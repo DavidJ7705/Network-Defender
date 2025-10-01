@@ -6,3 +6,4 @@ matplotlib
 seaborn
 scapy
 networkx
+gymnasium[other]
