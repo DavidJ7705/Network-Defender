@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
 .venv/
 .venv_mac/
+documentation/
 documentation/cartpole/**/videos/
+documentation/cartpole/**/model/
 documentation/cartpole/**/graphs/
 __pycache__/
 *.py[codz]
